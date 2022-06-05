@@ -138,8 +138,9 @@ footer {
     margin: 0 auto;
 }
 
-footer ul {
+footer ul li {
     list-style: none;
+    color: #eaeaea;
 }
 
 footer h1 {
