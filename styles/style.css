@@ -78,6 +78,10 @@ svg {
     font-weight: lighter;
 }
 
+.content-body img {
+    width: 400px;
+}
+
 .content-body aside {
     display: flex;
     flex-direction: column;
